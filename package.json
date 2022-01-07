@@ -1,0 +1,15 @@
+{
+  "name": "basic-node-site",
+  "version": "1.0.0",
+  "description": "node site practice #1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Carla Cairns",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
